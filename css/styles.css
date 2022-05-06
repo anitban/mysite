@@ -1,0 +1,97 @@
+body {
+  font-family: 'Merriweather', serif;
+  position: relative;
+  text-align: center;
+  margin: 0;
+}
+
+hr {
+  background-color: inherit;
+  border-style: dotted none none;
+  border-color: #f7f7f7;
+  border-width: 6px;
+  height: 0;
+  width: 6%;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+  font-size: 5.25em;
+}
+
+h2 {
+  color: #66BFBF;
+  font-weight: normal;
+  font-size: 1.5em
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+.top-container {
+  padding-top: 100px;
+  background-color: #e0ebe8;
+}
+
+.middle-container {
+  background-color: white;
+}
+
+.profile {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  padding-top: 100px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.contact-me{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: center;
+  line-height: 2;
+      padding-bottom: 100px;
+
+}
+.boy {
+  width: 140px;
+  border-radius: 50%;
+  background-color: grey;
+}
+
+.mountain {
+
+
+}
+
+.bottom-container {}
+
+.top-cloud {
+  position: absolute;
+  margin-left: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  margin-right: 300px;
+}
+
+.computer {
+  border-radius: 50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.seo {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
